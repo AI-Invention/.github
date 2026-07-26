@@ -1,20 +1,45 @@
-# AI Invention 🤖✨
+# AI Invention 🤖
 
-> From 3000 People to 3 — AI-Powered Business Solutions
+> **We build AI systems that run businesses. Real systems. Real deployment. Real results.**
 
-Enterprise-grade Hermes Agent skills.
+AI Invention is an AI systems company — we design, build, and deploy custom AI-powered platforms for businesses. Admin dashboards, AI receptionists, client portals, SaaS products, and industry-specific automation.
 
-| Category | Skills |
-|----------|--------|
-| Lead Generation | LinkedIn Lead Finder, Pitch & Mail, Malaysia Business Scraper |
-| SEO & Content | GSC Blog Publisher, Keyword Strategy, Guest Post Finder |
-| Social Media | LinkedIn AI News, Micro-SaaS Teaching |
-| DevOps | VPS Deployment, Traefik Router, Kanban |
-| Security | Hermes Security Layer |
-| Data | Skill Analyzer, Cost Tracker |
+Founded 2025. Operating from Malaysia (HF HOME HUB) and UAE.
 
-**24+ skills · 100% open source · Infinitely scalable**
+---
 
-[Website](https://aiinvention.tech) · [LinkedIn](https://linkedin.com/company/aiinvention)
+## What We Build
 
-*Built with ❤️ in Kuala Lumpur, Malaysia*
+| Product | Description | Status |
+|---------|-------------|--------|
+| **Opsync** | Amazon agency management SaaS — kanban, client portal, SP-API | Live |
+| **PRO Platform** | UAE PRO office operations — 20-role system, admin, AI receptionist | Live |
+| **AI Receptionist** | 24/7 chat widget with lead capture and Telegram integration | Live |
+| **Content Network** | AI news aggregator + SEO blog network | Live |
+
+---
+
+## Our Stack
+
+**Frontend:** Next.js · Tailwind CSS · TypeScript  
+**Backend:** FastAPI · Python · Prisma  
+**Database:** Supabase (PostgreSQL)  
+**Infra:** Docker · Traefik · GitHub Actions · VPS  
+**AI:** Claude Code · DeepSeek · Hermes Agent
+
+---
+
+## Working With Us
+
+We operate on a **build + subscription** model:
+
+1. **Discovery** — We learn your workflow
+2. **Playbook** — Detailed system design
+3. **Build & Deploy** — Production-ready deployment
+4. **Monthly Support** — Ongoing maintenance and improvements
+
+→ [aiinvention.tech](https://aiinvention.tech) · hello@aiinvention.tech
+
+---
+
+*Built in Malaysia and UAE*
